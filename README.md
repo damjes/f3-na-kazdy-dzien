@@ -11,4 +11,4 @@ Licencja
 ========
 
 Projekt został wydany na licencji DamjesaP, która jest dostępna w pliku
-LICENCJA.
+LICENCJA.md.
